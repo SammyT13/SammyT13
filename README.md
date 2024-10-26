@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=Sammyt1316)
-
+<!--![Codewars](https://github.r2v.ch/codewars?user=Sammyt1316)
+-->
 <!--
 **SammyT13/SammyT13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
